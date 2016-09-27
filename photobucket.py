@@ -6,10 +6,10 @@ import time
 
 
 # The starting URL. It can be the URL of any album element.
-START_URL = r"http://s536.photobucket.com/user/Bezduszny/media/5SMYYR2YXE/VideoDJ9.mp4.html?sort=3&o=0"
+START_URL = "Provide URL here"
 
 # The number of items in the album to download.
-NO_ITEMS = 375
+NO_ITEMS = 1
 
 
 if __name__ == "__main__":
